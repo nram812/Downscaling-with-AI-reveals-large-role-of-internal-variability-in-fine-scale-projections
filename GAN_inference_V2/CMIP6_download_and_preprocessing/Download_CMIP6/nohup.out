@@ -1,0 +1,140 @@
+  File "/scale_akl_nobackup/filesets/nobackup/niwa00018/CMIP6_data/download-cmip6/generate_links_from_wget.py", line 110
+    if not os.path.exists(outputfname):
+IndentationError: unexpected indent
+download_files="$(cat <<EOF--dataset.file.url.chksum_type.chksum
+
+download_files="$(cat <<EOF--dataset.file.url.chksum_type.chksum
+
+EOF--dataset.file.url.chksum_type.chksum
+
+Pandas Apply:   0%|          | 0/4 [00:00<?, ?it/s]Pandas Apply: 100%|██████████| 4/4 [00:00<00:00, 8046.63it/s]
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19800101-19841231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19850101-19891231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19900101-19941231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19950101-19991231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20000101-20041231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20050101-20091231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+downloading: /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_20100101-20141231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ta/gn/v20210607/ta_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/ua/gn/v20210607/ua_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/va/gn/v20210607/va_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19600101-19641231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/wap/gn/v20210607/wap_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19550101-19591231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19500101-19541231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19750101-19791231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19700101-19741231.nc
+completed file /nesi/nobackup/niwa00018/CMIP6_data/download-cmip6/OUTPUT/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r4i1p1f1/day/hus/gn/v20210607/hus_day_ACCESS-CM2_historical_r4i1p1f1_gn_19650101-19691231.nc

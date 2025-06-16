@@ -1,0 +1,6 @@
+,difference_in_times,dims,grid,max_NZ,mean,min_NZ,model,named_date,plevs,qtile10,qtile90,scenario,std,time,units,variable,variant
+0,,,,,,,NorESM2-MM,"['19500101', '19591231']",,,,historical,,,"ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",hus,r1i1p1f1
+1,,,,,,,NorESM2-MM,"['19600101', '19691231']",,,,historical,,,"ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",hus,r1i1p1f1
+2,,,,,,,NorESM2-MM,"['19700101', '19791231']",,,,historical,,,"ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",hus,r1i1p1f1
+3,,,,,,,NorESM2-MM,"['19800101', '19891231']",,,,historical,,,"ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",hus,r1i1p1f1
+4,,,,,,,NorESM2-MM,"['19900101', '19991231']",,,,historical,,,"ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",hus,r1i1p1f1
